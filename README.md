@@ -1,8 +1,8 @@
 # cyborg_python_mail
 Sending emails from python
 
-1.please follow these instructions:
-2.https://myaccount.google.com/lesssecureapps
+1.please follow these instructions:   
+2.https://myaccount.google.com/lesssecureapps 
 3.Use the above link to allow access to less secure app
 4.Clone this repository 
 5.add your own email address at EMAIL_ADDRESS variable in mail.py
